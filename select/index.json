@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "AKUTO NO UTA",
+  "base_artist": "D.O",
+  "createdAt": "2026-04-01T14:41:56.478020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悪党の詩 - AKUTO NO UTA",
+      "artist": "D.O",
+      "has_synced": true,
+      "path": "select/01_悪党の詩_-_AKUTO_NO_UTA_D.O.lrc"
+    }
+  ]
+}
